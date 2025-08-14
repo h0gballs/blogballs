@@ -30,4 +30,4 @@ kramdown:
   syntax_highlighter: rouge
 
 minima:
-  skin: dark
+  skin: solarized-dark
