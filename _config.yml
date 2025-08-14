@@ -1,14 +1,14 @@
 # Site settings
 title: HOGBALLS.DEV
-description: © 2025 Hogballs. All rights reserved.
+description: A blog about everything and nothing, and everything in between.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogballs.dev" # the base hostname & protocol for your site
-tldr: An attempt at a blog that I will no-doubt fail to update.
+homepage_header: An attempt at a blog that I will no-doubt fail to update.
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: minima
+remote_theme: jekyll/minima
 
 # Exclude from processing
 exclude:
@@ -19,6 +19,7 @@ exclude:
 # Plugins
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Pagination
 paginate: 50
@@ -27,3 +28,6 @@ paginate_path: "/page:num/"
 # Syntax highlighting
 kramdown:
   syntax_highlighter: rouge
+
+minima:
+  skin: dark
