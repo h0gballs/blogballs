@@ -1,1 +1,28 @@
-remote_theme: pages-themes/hacker
+# Site settings
+title: HOGBALLS
+description: Random thoughts - everything from distributed systems gotchas to life lessons I probably learned the hard way.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hogballs.dev" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Plugins
+plugins:
+  - jekyll-feed
+
+# Pagination
+paginate: 50
+paginate_path: "/page:num/"
+
+# Syntax highlighting
+kramdown:
+  syntax_highlighter: rouge
