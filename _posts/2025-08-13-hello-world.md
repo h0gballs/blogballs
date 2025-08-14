@@ -3,7 +3,10 @@ layout: post
 title: "Hello World"
 date: 2025-08-13 12:00:00 -0800
 ---
+
 Some first post ramblings.
+
+---
 
 Well, this is the farthest that I've ever come when trying to start my own blog. I've tried multiple times before, but for some reason, today was the day that I bit the bullet. I bought hogballs.dev, and hosted the site on Github Pages.
 
