@@ -31,3 +31,7 @@ kramdown:
 
 minima:
   skin: solarized
+  nav_pages:
+    - about.md
+    - todo.md
+  
