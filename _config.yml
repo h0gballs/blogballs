@@ -1,5 +1,5 @@
 # Site settings
-title: HOGBALLS.DEV
+title: hogballs.dev
 description: A blog about everything and nothing, and everything in between.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogballs.dev" # the base hostname & protocol for your site
@@ -30,4 +30,4 @@ kramdown:
   syntax_highlighter: rouge
 
 minima:
-  skin: solarized-dark
+  skin: solarized
