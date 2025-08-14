@@ -1,8 +1,9 @@
 # Site settings
 title: HOGBALLS.DEV
-description: An attempt at a blog that I will no-doubt fail to update.
+description: © 2025 Hogballs. All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogballs.dev" # the base hostname & protocol for your site
+tldr: An attempt at a blog that I will no-doubt fail to update.
 
 # Build settings
 markdown: kramdown
