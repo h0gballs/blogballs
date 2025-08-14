@@ -30,6 +30,7 @@ kramdown:
   syntax_highlighter: rouge
 
 minima:
+  show_excerpts: true
   skin: auto
   nav_pages:
     - about.md
