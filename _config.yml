@@ -30,7 +30,7 @@ kramdown:
   syntax_highlighter: rouge
 
 minima:
-  skin: solarized
+  skin: auto
   nav_pages:
     - about.md
     - todo.md
