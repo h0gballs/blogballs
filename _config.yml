@@ -1,6 +1,6 @@
 # Site settings
 title: Blogballs by Hogballs
-description: A blog about everything and nothing, and everything in between.
+description: Bloggies are Poggies
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogballs.dev" # the base hostname & protocol for your site
 homepage_header: An attempt at a blog that I will no-doubt fail to update.
