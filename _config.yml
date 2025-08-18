@@ -1,5 +1,5 @@
 # Site settings
-title: hogballs.dev
+title: Blogballs by Hogballs
 description: A blog about everything and nothing, and everything in between.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hogballs.dev" # the base hostname & protocol for your site
