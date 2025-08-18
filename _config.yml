@@ -35,4 +35,7 @@ minima:
   nav_pages:
     - about.md
     - todo.md
-  
+  social_links:
+  - title: Github 
+    icon: github
+    url: "https://github.com/h0gballs/blogballs/"
