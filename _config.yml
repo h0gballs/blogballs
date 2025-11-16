@@ -1,0 +1,40 @@
+# Site settings
+title: Blogballs by Hogballs
+description: Bloggies are Poggies
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://hogballs.dev" # the base hostname & protocol for your site
+homepage_header: An attempt at a blog that I will no-doubt fail to update.
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+remote_theme: jekyll/minima@1fe0fbf
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+
+# Pagination
+paginate: 50
+paginate_path: "/page:num/"
+
+# Syntax highlighting
+kramdown:
+  syntax_highlighter: rouge
+
+minima:
+  show_excerpts: true
+  skin: auto
+  nav_pages:
+    - about.md
+  social_links:
+  - title: Github 
+    icon: github
+    url: "https://github.com/h0gballs/blogballs/"
