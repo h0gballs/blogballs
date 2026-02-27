@@ -1,8 +1,63 @@
 ---
 ---
 
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,200..900;1,200..900&display=swap');
+
+$base-font-family: "Source Code Pro", monospace;
+$code-font-family: "Source Code Pro", monospace;
+
+// Tokyo Night dark mode overrides
+$dm-brand-color:           #565f89;
+$dm-brand-color-light:     #737aa2;
+$dm-brand-color-dark:      #414868;
+
+$dm-site-title-color:      #ff8a80;
+
+$dm-heading-color:         #c0caf5;
+$dm-text-color:            #a9b1d6;
+$dm-background-color:      #1a1b26;
+$dm-code-background-color: #24283b;
+
+$dm-link-base-color:       #7aa2f7;
+$dm-link-visited-color:    #bb9af7;
+$dm-link-hover-color:      #7dcfff;
+
+$dm-border-color-01:       #292e42;
+$dm-border-color-02:       #3b4261;
+$dm-border-color-03:       #565f89;
+
+$dm-table-text-color:      #a9b1d6;
+$dm-table-zebra-color:     #24283b;
+$dm-table-header-bg-color: #292e42;
+$dm-table-header-border:   #3b4261;
+$dm-table-border-color:    #292e42;
+
+// Tokyo Night light mode overrides
+$lm-brand-color:           #6172b0;
+$lm-brand-color-light:     #9aa5ce;
+$lm-brand-color-dark:      #343b59;
+
+$lm-site-title-color:      #ff8a80;
+
+$lm-heading-color:         #343b59;
+$lm-text-color:            #343b59;
+$lm-background-color:      #d5d6db;
+$lm-code-background-color: #c7c8cd;
+
+$lm-link-base-color:       #34548a;
+$lm-link-visited-color:    #5a4a78;
+$lm-link-hover-color:      #166775;
+
+$lm-border-color-01:       #b4b5b9;
+$lm-border-color-02:       #9699a3;
+$lm-border-color-03:       #6172b0;
+
+$lm-table-text-color:      #343b59;
+$lm-table-zebra-color:     #c7c8cd;
+$lm-table-header-bg-color: #b4b5b9;
+$lm-table-header-border:   #9699a3;
+$lm-table-border-color:    #b4b5b9;
+
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
-
-
