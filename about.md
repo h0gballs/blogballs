@@ -24,4 +24,4 @@ I would bet it's a combination of all of those! Regardless, if you take the time
 While the bones of this blog were created with the help of AI, all content is 100% AI free, for now and forever. I really hate blogs that are just written by AI. If I wanted an AI's opinion, I would have booted up my favourite model and asked it myself, dingus.
 
 ## Contacting Hogballs
-I don't have comments implemented for my posts yet, I'm not sure if I need it at the moment anyway. Feel free to give me a shout at [mail@hogballs.dev](mailto:mail@hogballs.dev]
+I don't have comments implemented for my posts yet, I'm not sure if I need it at the moment anyway. Feel free to give me a shout at [mail@hogballs.dev](mailto:mail@hogballs.dev)
